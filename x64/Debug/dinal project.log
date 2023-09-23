@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Microsoft.Visual.Studio.2022\projects\C++ Project\مبانی عمرانپور\FINAL PROJECT\Source.cpp(40,23): warning C4101: 'k': unreferenced local variable
+D:\Microsoft.Visual.Studio.2022\projects\C++ Project\مبانی عمرانپور\FINAL PROJECT\Source.cpp(40,28): warning C4101: 'h': unreferenced local variable
+  dinal project.vcxproj -> D:\Microsoft.Visual.Studio.2022\projects\C++ Project\مبانی عمرانپور\FINAL PROJECT\x64\Debug\dinal project.exe
